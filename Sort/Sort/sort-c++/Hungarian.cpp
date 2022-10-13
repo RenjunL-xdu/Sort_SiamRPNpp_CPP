@@ -8,7 +8,7 @@
 // Both this code and the orignal code are published under the BSD license.
 // by Cong Ma, 2016
 // 
-
+asdadadfasfasdf
 #include "Hungarian.h"
 
 
@@ -259,7 +259,6 @@ void HungarianAlgorithm::step2b(int *assignment, double *distMatrix, bool *starM
 	}
 
 }
-
 /********************************************************/
 void HungarianAlgorithm::step3(int *assignment, double *distMatrix, bool *starMatrix, bool *newStarMatrix, bool *primeMatrix, bool *coveredColumns, bool *coveredRows, int nOfRows, int nOfColumns, int minDim)
 {
