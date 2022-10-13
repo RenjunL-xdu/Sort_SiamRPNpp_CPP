@@ -27,7 +27,7 @@ double HungarianAlgorithm::Solve(vector<vector<double>>& DistMatrix, vector<int>
 	double *distMatrixIn = new double[nRows * nCols];
 	int *assignment = new int[nRows];
 	double cost = 0.0;
-
+	afsaadfafsagsg
 	// Fill in the distMatrixIn. Mind the index is "i + nRows * j".
 	// Here the cost matrix of size MxN is defined as a double precision array of N*M elements. 
 	// In the solving functions matrices are seen to be saved MATLAB-internally in row-order.
